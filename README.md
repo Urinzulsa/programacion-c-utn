@@ -30,7 +30,7 @@ Durante la cursada se desarrollaron ejercicios y trabajos prácticos aplicando l
 - Lenguaje: C
 - Compilador: GCC
 
-## ▶ Cómo compilar y ejecutar
+##  Cómo compilar y ejecutar
 
 Compilar:
 gcc main.c -o programa
