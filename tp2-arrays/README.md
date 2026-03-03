@@ -9,9 +9,9 @@ El programa funciona mediante un menú interactivo por consola que permite ejecu
 
 ---
 
-## 📌 Funcionalidades implementadas
+##  Funcionalidades implementadas
 
-### 🔢 Arreglos de enteros
+###  Arreglos de enteros
 
 - Carga de arreglo y retorno de cantidad de elementos válidos
 - Mostrar arreglo por pantalla
@@ -20,14 +20,14 @@ El programa funciona mediante un menú interactivo por consola que permite ejecu
 
 ---
 
-### 🔢 Arreglos de float
+###  Arreglos de float
 
 - Carga de arreglo de números reales
 - Suma de elementos del arreglo
 
 ---
 
-### 🔤 Arreglos de caracteres
+###  Arreglos de caracteres
 
 - Carga dinámica de caracteres
 - Búsqueda de un carácter dentro del arreglo
@@ -37,7 +37,7 @@ El programa funciona mediante un menú interactivo por consola que permite ejecu
 
 ---
 
-## 🧠 Conceptos aplicados
+##  Conceptos aplicados
 
 - Arrays unidimensionales
 - Manejo de válidos
@@ -52,7 +52,7 @@ El programa funciona mediante un menú interactivo por consola que permite ejecu
 
 ---
 
-## 📂 Estructura del proyecto
+##  Estructura del proyecto
 
 
 tp3-arreglos/
@@ -62,7 +62,7 @@ tp3-arreglos/
 
 ---
 
-## ⚙️ Compilación
+##  Compilación
 
 Si utilizás la implementación de pila:
 
@@ -75,7 +75,7 @@ gcc main.c pila.c -o programa
 
 ---
 
-## 🎯 Objetivo académico
+##  Objetivo académico
 
 El objetivo del trabajo es reforzar:
 
@@ -87,7 +87,7 @@ El objetivo del trabajo es reforzar:
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Lisandro Inzulsa  
 Estudiante de Tecnicatura en Programación - UTN
