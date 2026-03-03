@@ -1,4 +1,4 @@
-# TP5 - Arreglos Paralelos en C
+# TP4 - Arreglos Paralelos en C
 
 Trabajo práctico desarrollado en C para la materia Programación I  
 Tecnicatura en Programación - UTN
